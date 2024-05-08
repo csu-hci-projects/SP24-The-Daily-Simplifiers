@@ -1,7 +1,7 @@
 # SP24-The-Daily-Simplifiers
 1. Links to Youtube videos:
-* Demo+Code: https://youtu.be/7FlGGv3rtTQ
-* Short Video: https://youtu.be/AcIIEgHKfVY
+    * Demo+Code: https://youtu.be/7FlGGv3rtTQ
+    * Short Video: https://youtu.be/AcIIEgHKfVY
 
 
 2. Link to Github source code: https://github.com/csu-hci-projects/SP24-The-Daily-Simplifiers
